@@ -100,14 +100,6 @@ io.on("connection", (socket) => {
     });
   });
 
-  // socket.on("delete-message", async (data) => {
-  //   const { sender, receiver, idmessage } = data;
-  //   chatModel.deleteChat(idmessage, sender).then(async () => {
-  //     const listChats = await chatModel.getChat(sender, receiver);
-  //     io.to(sender).emit("send-message-response", listChats.rows);
-  //     io.to(receiver).emit("send-message-response", listChats.rows);
-  //   });
-  // });
 
   socket.on("disconnect", () => {
     console.log(`device disconnected : ${socket.id}`);
