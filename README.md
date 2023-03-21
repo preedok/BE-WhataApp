@@ -5,7 +5,7 @@
 </div>
   <h3 align="center">Backend WhatsApp</h3>
   <p align="center">
-    <a href="https://github.com/Iqbalapredo/BE-WhatsApp/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Iqbalapredo/BE-WhataApp/"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://be-whataapp-production.up.railway.app/">View Demo</a>
     ·
@@ -110,7 +110,7 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend WhatsApp`](https://github.com/Iqbalapredo/BE-WhatsApp)
+:rocket: [`Backend WhatsApp`](https://github.com/Iqbalapredo/BE-WhataApp)
 
 :rocket: [`Frontend WhatsApp`](https://github.com/Iqbalapredo/FE-WhatsApp)
 
@@ -121,4 +121,4 @@ Contributions are what make the open source community such an amazing place to b
 
 My Email : iqbalapreedo@gmail.com
 
-Project Link: [https://github.com/Iqbalapredo/BE-WhatsApp/](https://github.com/Iqbalapredo/BE-WhatsApp)
+Project Link: [https://github.com/Iqbalapredo/BE-WhatsApp/](https://github.com/Iqbalapredo/BE-WhataApp)
