@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 <div align="center">
-  <img height="150" src="https://iili.io/H3ze4kv.png" alt="telegram" border="0"/>
+  <img height="150" src="https://www.freeiconspng.com/uploads/logo-whatsapp-png-pic-0.png" alt="telegram" border="0"/>
 </div>
   <h3 align="center">Backend WhatsApp</h3>
   <p align="center">
