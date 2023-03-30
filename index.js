@@ -98,6 +98,21 @@ io.on("connection", (socket) => {
         .to(data.receiver)
         .emit("private-msg-BE", { ...newMessage, date: new Date() });
     });
+
+    socket.on("delete-message", async (data) => {
+      try {
+        const { sender, receiver, chatId } = data;
+        // delete chat by id
+        await chatModel.deleteChat(chatId);
+        // select all chat related to sender & receiver
+        const listChat = await chatModel.list(sender, receiver);
+
+        io.to(sender).emit("send-message-response", listChat.rows);
+        io.to(receiver).emit("send-message-response", listChat.rows);
+      } catch (error) {
+        console.log(error);
+      }
+    });
   });
 
 
