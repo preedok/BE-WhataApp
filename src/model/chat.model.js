@@ -21,6 +21,16 @@ const chatModel = {
       [sender, receiver, receiver, sender]
     );
   },
+  
+   deleteChat: (chatId, sender) => {
+    return pool.query(
+      `
+      DELETE FROM messages
+      WHERE message_id = $1 AND sender = $2
+      `,
+      [chatId, sender]
+    );
+  },
 };
 
 module.exports = chatModel;
