@@ -93,7 +93,15 @@ DB_PASSWORD
 DB_PORT
 PORT
 SECRET_KEY_JWT
+
+CLOUD_NAME
+API_KEY
+API_SECRET
 ```
+
+## Endpoint List
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/23292228/2s93RUvsS7)
 
 
 <!-- CONTRIBUTING -->
