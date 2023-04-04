@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 <div align="center">
-  <img height="150" src="https://www.freeiconspng.com/uploads/logo-whatsapp-png-pic-0.png" alt="telegram" border="0"/>
+  <img height="150" src="https://i.ibb.co/pX8CFK5/chat.png" alt="telegram" border="0"/>
 </div>
   <h3 align="center">Backend WhatsApp</h3>
   <p align="center">
@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-WhatsApp Rest API is server api that used in WhatsApp . This server manage all function and endpoint in WhatsApp such as create, add , update and delete message. Authentication about login, register and getting profile info also edit profile as well.
+Sleep-Call Rest API is server api that used in Sleep-Call . This server manage all function and endpoint in WhatsApp such as create, add , update and delete message. Authentication about login, register and getting profile info also edit profile as well.
 
 ### Built With
 
@@ -118,11 +118,11 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend WhatsApp`](https://github.com/Iqbalapredo/BE-WhataApp)
+:rocket: [`Backend WhatsApp`](https://github.com/preedok/BE-WhataApp)
 
-:rocket: [`Frontend WhatsApp`](https://github.com/Iqbalapredo/FE-WhatsApp)
+:rocket: [`Frontend WhatsApp`](https://github.com/preedok/FE-SleepCall-App)
 
-:rocket: [`Demo WhatsApp`](https://fe-whats-app.vercel.app/)
+:rocket: [`Demo WhatsApp`](https://fe-sleepcall-app.vercel.app/login)
 
 <!-- CONTACT -->
 ## Contact
