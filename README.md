@@ -122,7 +122,7 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Frontend WhatsApp`](https://github.com/Iqbalapredo/FE-WhatsApp)
 
-:rocket: [`Demo WhatsApp`](https://be-whataapp-production.up.railway.app/)
+:rocket: [`Demo WhatsApp`](https://fe-whats-app.vercel.app/)
 
 <!-- CONTACT -->
 ## Contact
