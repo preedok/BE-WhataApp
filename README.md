@@ -7,7 +7,7 @@
   <p align="center">
     <a href="https://github.com/preedok/BE-WhataApp/"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://be-whataapp-production.up.railway.app/v1/user/a2fb2ee0-7f3d-462b-9ef6-66bc81db14a3](https://be-whataapp-production.up.railway.app/v1/user/a2fb2ee0-7f3d-462b-9ef6-66bc81db14a3">View Demo</a>
+    <a href="https://be-whataapp-production.up.railway.app/v1/user/a2fb2ee0-7f3d-462b-9ef6-66bc81db14a3"](https://be-whataapp-production.up.railway.app/v1/user/a2fb2ee0-7f3d-462b-9ef6-66bc81db14a3">View Demo</a>
     ·
  
   </p>
