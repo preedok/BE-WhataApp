@@ -118,15 +118,15 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend WhatsApp`](https://github.com/preedok/BE-WhataApp)
+:rocket: [`Backend Sleep Call`](https://github.com/preedok/BE-WhataApp)
 
-:rocket: [`Frontend WhatsApp`](https://github.com/preedok/FE-SleepCall-App)
+:rocket: [`Frontend Sleep Call`](https://github.com/preedok/FE-SleepCall-App)
 
-:rocket: [`Demo WhatsApp`](https://fe-sleepcall-app.vercel.app/login)
+:rocket: [`Demo Sleep Call`](https://fe-sleepcall-app.vercel.app/login)
 
 <!-- CONTACT -->
 ## Contact
 
 My Email : iqbalapreedo@gmail.com
 
-Project Link: [https://github.com/Iqbalapredo/BE-WhatsApp/](https://github.com/Iqbalapredo/BE-WhataApp)
+Project Link: [https://github.com/preedok/BE-WhatsApp/](https://github.com/preedok/BE-WhataApp)
