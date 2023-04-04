@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-WhatsApp Rest API is server api that used in WhatsApp . This server manage all function and endpoint in telegram app such as create, add , update and delete message. Authentication about login, register and getting profile info also edit profile as well.
+WhatsApp Rest API is server api that used in WhatsApp . This server manage all function and endpoint in WhatsApp such as create, add , update and delete message. Authentication about login, register and getting profile info also edit profile as well.
 
 ### Built With
 
